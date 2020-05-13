@@ -1,2 +1,2 @@
-# Clinical-Decision-Support-using-Machine-Learning
-Predicting the stage of Breast Cancer using different Machine Learning models and comparing their performance.
+# Readme
+In this project, I conducted a performance comparison between different machine learning algorithms: Linear Regression, Random Forest, SVM and k-NN on the Wisconsin Breast Cancer dataset to predict the Stage of Breast Cancer - M (Malignant) or B (Bengin). The main objective of this project is to assess the correctness in classifying data with respect to accuracy and efficiency of each algorithm.
